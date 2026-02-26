@@ -9,9 +9,7 @@ namespace KampusArena
 {
     internal class DatabaseHelper
     {
-
-        private readonly string _connectionString = "Data Source=DESKTOP-8BT2BV7\\SQLEXPRESS03;Initial Catalog=KampusArena;Integrated Security=True;Trust Server Certificate=True";
-
+        private readonly string _connectionString ="Data Source=.\\SQLEXPRESS03;Initial Catalog=KampusArena;Integrated Security=True;TrustServerCertificate=True;";
         public DataTable ExecuteQuery(string query, SqlParameter[] parameters = null)
         {
             try

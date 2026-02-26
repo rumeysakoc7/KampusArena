@@ -41,3 +41,7 @@ Projeyi çalıştırmak için:
 ## Amaç
 
 Bu proje, C# ve SQL Server teknolojileri kullanılarak masaüstü uygulama geliştirme pratiği kazanmak amacıyla geliştirilmiştir.
+
+## Ekran Görüntüleri
+
+[Giriş ve Uygulama Ekranlarını Görmek İçin Tıklayın](screenshots.md)
